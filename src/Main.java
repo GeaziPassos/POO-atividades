@@ -13,5 +13,6 @@ public class Main {
 
         Casa casa = new Casa();
         casa.quarto.area = 10;
+        casa.cozinha.pia = "quatro portas";
     }
 }
